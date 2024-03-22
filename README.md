@@ -7,4 +7,3 @@ They are mainly classified into :
 
 2. Classification
 
-3. Clustering
